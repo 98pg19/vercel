@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://www.paypal.com/ncp/payment/ZMM4S66LZAHLN",
+      "destination": "https://www.paypal.com/ncp/payment/UV6ET6F3YLWZY",
       "permanent": true
     }
   ]
