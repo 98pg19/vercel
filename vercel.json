@@ -1,9 +1,8 @@
 {
-  "redirects": [
+  "routes": [
     {
-      "source": "/(.*)",
-      "destination": "https://www.paypal.com/ncp/payment/Z7865XD9C24LW",
-      "permanent": true
+      "src": "/(.*)",
+      "dest": "/public/index.html"
     }
   ]
 }
