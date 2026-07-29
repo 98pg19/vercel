@@ -1,9 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://www.paypal.com/ncp/payment/Z7865XD9C24LW",
-      "permanent": true
-    }
-  ]
+  "version": 2,
+  "public": true
 }
