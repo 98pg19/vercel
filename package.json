@@ -1,0 +1,12 @@
+{
+  "name": "fundnow",
+  "version": "1.0.0",
+  "description": "Vercel project with Web Analytics",
+  "scripts": {
+    "build": "echo 'No build step required for static site'",
+    "lint": "echo 'No linting configured'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
